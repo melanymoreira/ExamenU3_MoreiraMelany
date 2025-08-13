@@ -39,12 +39,15 @@ Este proyecto es un backend con autenticación OAuth 2.0 (GitHub), gestión de s
    ```bash
    npx nodemon index.js
    ```
-
+   
 5. **Abre la aplicación en tu navegador**
    ```
    http://localhost:3000
    ```
-
+   ó
+   ```
+   examenu3moreiramelany-production.up.railway.app
+   ```
 ---
 
 ## ✨ Funcionalidad
