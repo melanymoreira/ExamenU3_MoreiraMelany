@@ -123,12 +123,3 @@ Captura de la consola del servidor mostrando el JWT generado y los datos del usu
 - Para producción, recuerda configurar correctamente las variables de entorno y la URL de callback en GitHub.
 
 ---
-
-## 📦 Despliegue
-
-Puedes desplegar este proyecto en Railway, Render, etc.  
-No olvides configurar las variables de entorno en el panel del servicio.
-
----
-
-¿Dudas o sugerencias? ¡Abre un issue o contacta al autor!
