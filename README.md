@@ -14,7 +14,7 @@ Este proyecto es un backend con autenticación OAuth 2.0 (GitHub), gestión de s
 1. **Clona el repositorio**
    ```bash
    git clone https://github.com/melanymoreira/ExamenU3_MoreiraMelany.git
-   cd tu-repo
+   cd ExamenU3_MoreiraMelany
    ```
 
 2. **Instala las dependencias**
